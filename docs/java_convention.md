@@ -705,11 +705,11 @@ com.obigo.{project}
     @Test
     void registerUser_shouldThrowException_whenEmailIsDuplicate() {
         // given
-        ...
+        
         // when
-        ...
+        
         // then
-        ...
+        
     }
   ```
 

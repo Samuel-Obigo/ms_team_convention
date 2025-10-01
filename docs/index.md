@@ -1,15 +1,26 @@
-# 🚀 Project Coding Convention
+# 🚀 MS Team Convention
 
-본 프로젝트에서 사용하는 **개발 컨벤션 문서**입니다.  
-팀 전체가 동일한 규칙을 적용하여 코드 품질과 유지보수성을 높이는 것을 목표로 합니다.
+> 팀 내 개발 표준과 코딩 규칙을 정리한 문서 모음입니다.  
+> 모든 팀원은 아래 Convention을 따라야 하며, 문서는 지속적으로 업데이트됩니다.
 
 ---
 
 ## 📚 Convention 문서
 
-- 📘 [Java / Spring Boot Convention](convention/java.md)
-- 🌿 [Git Branch & Commit Convention](convention/git.md)
+### 📘 Java / Spring Boot Convention
+[👉 바로가기](convention/java.md)
+
+Java 및 Spring Boot 기반 프로젝트에서 적용할 **코딩 규칙, 패키지 구조, 네이밍 규칙**을 정의합니다.
 
 ---
 
-✍️ 문서는 지속적으로 업데이트되며, 모든 팀원은 최신 버전을 참고해야 합니다.
+### 🌿 Git Branch & Commit Convention
+[👉 바로가기](convention/git.md)
+
+GitHub Flow 기반의 **브랜치 전략, 커밋 메시지 규칙, PR 규칙**을 정리합니다.
+
+---
+
+## 🔖 참고
+- 본 문서는 [GitHub Pages](https://pages.github.com/)를 통해 자동 배포됩니다.
+- 저장소: `ms_team_convention`

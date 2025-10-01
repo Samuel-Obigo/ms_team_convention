@@ -1,8 +1,12 @@
+---
+title: "Spring Boot 기반 Java Coding Convention"
+layout: default
+---
+
 # Spring Boot 기반 Java Coding Convention
 
-본 문서는 Spring Boot 기반 프로젝트에서 일관된 개발을 위해 정의한 Coding Convention입니다.
+본 문서는 Spring Boot 기반 프로젝트에서 일관된 개발을 위해 정의한 Coding Convention입니다.  
 팀 전체가 동일한 규칙을 적용하여 코드 품질과 유지보수성을 높이는 것을 목표로 합니다.
-
 ---
 
 ## 1. 프로젝트 패키지 구조

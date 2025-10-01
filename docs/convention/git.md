@@ -1,3 +1,8 @@
+---
+title: "GitHub Commit & Branch 전략"
+layout: default
+---
+
 # 📌 GitHub Commit & Branch 전략
 
 본 문서는 프로젝트의 **Branch 전략**과 **Commit 메시지 컨벤션**을 정의합니다.  

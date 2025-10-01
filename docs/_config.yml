@@ -1,0 +1,10 @@
+title: "MS Team Convention"
+description: "팀 내 개발 표준 및 코딩 컨벤션 문서"
+theme: jekyll-theme-cayman
+
+# 사이트 URL (조직/레포에 맞게 수정)
+url: "https://samuel-obigo.github.io"
+baseurl: "/ms_team_convention"
+
+# Build settings
+markdown: kramdown
